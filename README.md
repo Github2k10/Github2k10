@@ -20,7 +20,9 @@
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
 
-<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10e&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10" alt="github2k10" /></a> </p> -->
+
+<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10" alt="github2k10" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
