@@ -7,7 +7,17 @@
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software Developer from India." />
+</p>
+
+<h3 align="center">
+    I am a pursuing Full Stack Development from Masai School, Bangalore, India.<br />
+    I am completed my Diploma in Electronics and Communication from PUSA Institue of Technology, New Delhi, India.<br />
+    I like solving competitive coding problems, exploring new technologies and book reading.
+</h3>
+
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10" alt="github2k10" /></a> </p>
