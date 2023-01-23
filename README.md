@@ -24,12 +24,16 @@
 
 <p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github2k10" /></a> </p>
 
+<p align='center' style='font-size: 16px;'>
+    ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
+</p>
+
 - 🌱 I’m currently learning **Full Stack Developer**
 
 - 📫 How to reach me **ankitsingh40068@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>Connect with me:</h3>
+<p align="center" style='margin: 16px 4px 8px;'>
 <a href="https://linkedin.com/in/ankit-kumar-2k21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-kumar-2k21" height="30" width="40" /></a>
 
 <a href="https://stackoverflow.com/users/20510435/ankit-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20510435/ankit-kumar" height="30" width="40" /></a>
