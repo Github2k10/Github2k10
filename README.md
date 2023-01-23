@@ -12,7 +12,7 @@
 
 <h3 align="center">
     I am a pursuing Full Stack Development from Masai School, Bangalore, India.<br />
-    I am completed my Diploma in Electronics and Communication from PUSA Institue of Technology, New Delhi, India.<br />
+    I have completed my Diploma in Electronics and Communication from PUSA Institue of Technology, New Delhi, India.<br />
     I like solving competitive coding problems, exploring new technologies and book reading.
 </h3>
 
@@ -20,7 +20,7 @@
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10" alt="github2k10" /></a> </p>
+<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10e&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
