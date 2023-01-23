@@ -1,11 +1,11 @@
-<h1 align="center">Hi ??, I'm Ankit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10" alt="github2k10" /></a> </p>
 
-- ?? I�m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Developer**
 
-- ?? How to reach me **ankitsingh40068@gmail.com**
+- 📫 How to reach me **ankitsingh40068@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +22,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=github2k10&show_icons=true&locale=en&layout=compact" alt="github2k10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=github2k10&" alt="github2k10" /></p>
+
