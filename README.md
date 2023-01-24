@@ -28,25 +28,40 @@
     ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
 </p>
 
-- 🌱 I’m currently learning **Full Stack Developer**
-
-- 📫 How to reach me **ankitsingh40068@gmail.com**
-
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>Connect with me:</h3>
-<p align="center" style='margin: 16px 4px 8px;'>
-<a href="https://linkedin.com/in/ankit-kumar-2k21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-kumar-2k21" height="30" width="40" /></a>
-
-<a href="https://stackoverflow.com/users/20510435/ankit-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20510435/ankit-kumar" height="30" width="40" /></a>
-
-<a href="https://instagram.com/___its.phoenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___its.phoenix" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/ankitsingh40068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitsingh40068" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/ankitsingh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitsingh007" height="30" width="40" /></a>
-
+<p align='center' style='font-size: 16px;'>
+    🌱 <strong>I’m currently learning Full Stack Developer</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align='center' style='font-size: 16px;'>
+    📫 <strong> How to reach me ankitsingh40068@gmail.com</strong>
+</p>
+
+
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+    Connect with me:
+</h3>
+<p align="center" style='margin: 16px 4px 8px;'>
+    <a href="ankitsingh40068@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:uapathrabe@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://linkedin.com/in/ankit-kumar-2k21" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/ankit-kumar-2k21" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://instagram.com/___its.phoenix" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/___its.phoenix" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.hackerrank.com/ankitsingh40068" target="blank" rel="noreferrer">
+        <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerrank.com/ankitsingh40068" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.leetcode.com/ankitsingh007" target="blank" rel="noreferrer">
+        <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" alt="https://www.leetcode.com/ankitsingh007" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+</p>
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+    Languages and Tools:
+</h3>
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
