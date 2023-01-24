@@ -7,7 +7,7 @@
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software Developer from India." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a Passionate Full-Stack Software Developer from India." />
 </p>
 
 <h3 align="center">
@@ -92,14 +92,18 @@
 <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
     Stats
 </h3>
-<p>
-    <img align="center" style='margin: 8px 4px;' src="https://github-readme-stats.vercel.app/api/top-langs?username=github2k10&show_icons=true&locale=en&layout=compactt&theme=gruvbox&langs_count=10" alt="github2k10" />
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=github2k10&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="github2k10" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api?username=github2k10&show_icons=true&locale=en&theme=gruvbox" alt="github2k10" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=github2k10&theme=gruvbox" alt="github2k10" />
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=github2k10&theme=gruvbox" alt="github2k10" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake.svg" alt="utkarsh pathrabe stats snake" />
 </p>
