@@ -34,6 +34,11 @@
     📫 <strong> How to reach me ankitsingh40068@gmail.com</strong>
 </p>
 
+<p align="center" style='font-size: 16px;'> 
+  <b>Profile Views</b><br>
+  <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
+</p>
+
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Connect with me:
 </h3>
@@ -108,7 +113,4 @@
     <img src="https://github.com/Github2k10/Github2k10/blob/output/github-contribution-grid-snake.svg" alt="My snake eating contribution graph" />
 </p>
 
-<p align="left"> 
-  <b>Profile Views</b><br>
-  <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
-</p>
+
