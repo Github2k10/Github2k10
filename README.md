@@ -108,3 +108,7 @@
     <img src="https://github.com/Github2k10/Github2k10/blob/output/github-contribution-grid-snake.svg" alt="My snake eating contribution graph" />
 </p>
 
+<p align="left"> 
+  <b>Profile Views</b><br>
+  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+</p>
