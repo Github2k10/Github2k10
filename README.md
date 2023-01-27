@@ -35,7 +35,7 @@
 </p>
 
 <p align="center" style='font-size: 16px;'> 
-  <b>Profile Views</b><br>
+  <b>Profile Views   </b>
   <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
 </p>
 
