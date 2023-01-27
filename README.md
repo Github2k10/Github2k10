@@ -110,5 +110,5 @@
 
 <p align="left"> 
   <b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
 </p>
