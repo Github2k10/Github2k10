@@ -64,7 +64,7 @@
     Languages and Tools:
 </h3>
 
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,git,github,html,idea,js,java,linux,netlify,vscode,wordpress" alt="skills logos" align="center" /> <br>
+  <img align="center" src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,git,github,html,idea,js,java,linux,netlify,vscode,wordpress" alt="skills logos"  /> <br>
 
 <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
     Stats
