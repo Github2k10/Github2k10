@@ -59,7 +59,7 @@
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/___its.phoenix" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 5px; padding: 2px;" />
     </a>
     <a href="https://www.hackerrank.com/ankitsingh40068" target="blank" rel="noreferrer">
-        <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerrank.com/ankitsingh40068" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 5px; padding: 5px;" />
+        <img align="center" src="https://github.com/Github2k10/Github2k10/blob/main/assets/hackerrank.svg" alt="https://www.hackerrank.com/ankitsingh40068" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 5px; padding: 5px;" />
     </a>
     <a href="https://www.leetcode.com/ankitsingh007" target="blank" rel="noreferrer">
         <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png" alt="https://www.leetcode.com/ankitsingh007" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 5px; padding: 5px;" />
