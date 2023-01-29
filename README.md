@@ -74,14 +74,14 @@
 
 <div align='center' >
   <img style='text-align:center;' src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,git,github,html,idea,js,java,linux,netlify,vscode,wordpress" alt="skills logos"  /> <br> 
-    <h3> <strong> Actively Learning </strong></h3>
+    <h3> <strong> Actively Learning: </strong></h3>
     <img style='text-align:center;' src="https://skillicons.dev/icons?i=aws,bootstrap,figma,hibernate,maven,mysql,sass,spring" alt="skills logos"  /> 
 </div> 
 
 <br>
     
 <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
-    Stats
+    Stats:
 </h3>
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=github2k10&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="github2k10" />
