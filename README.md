@@ -73,7 +73,7 @@
 </h3>
 
 <div align='center' >
-  <img style='text-align:center;' src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,git,github,html,idea,js,java,linux,netlify,vscode,wordpress" alt="skills logos"  /> <br> 
+  <img style='text-align:center;' src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,github,html,js,java,linux,netlify,vscode" alt="skills logos"  /> <br> 
     <h3> <strong> Actively Learning: </strong></h3>
     <img style='text-align:center;' src="https://skillicons.dev/icons?i=aws,bootstrap,figma,hibernate,maven,mysql,sass,spring" alt="skills logos"  /> 
 </div> 
