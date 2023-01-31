@@ -13,7 +13,7 @@
 <h2></h2>
 
 <h3 align="center">
-    I am a learning Full Stack Development from Masai School, Bangalore, India.<br />
+    I am learning Full Stack Development from Masai School, Bangalore, India.<br />
     I have completed my Diploma in Electronics and Communication from PUSA Institue of Technology, New Delhi, India.<br />
     I like solving competitive coding problems, exploring new technologies and book reading.
 </h3>
