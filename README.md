@@ -49,9 +49,6 @@
     Connect with me:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
-    <a href="ankitsingh40068@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:uapathrabe@gmail.com" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 5px; padding: 5px;" />
-    </a>
     <a href="https://linkedin.com/in/ankit-kumar-2k21" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/ankit-kumar-2k21" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 5px; padding: 5px;" />
     </a>
