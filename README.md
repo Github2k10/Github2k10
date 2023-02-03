@@ -53,12 +53,6 @@
     <a href="https://linkedin.com/in/ankit-kumar-2k21" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/ankit-kumar-2k21" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 5px; padding: 5px;" />
     </a>
-    <a href="https://www.hackerrank.com/ankitsingh40068" target="blank" rel="noreferrer">
-        <img align="center" src="https://github.com/Github2k10/Github2k10/blob/main/assets/hackerrank_icon.svg" alt="https://www.hackerrank.com/ankitsingh40068" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 5px; padding: 5px;" />
-    </a>
-    <a href="https://www.leetcode.com/ankitsingh007" target="blank" rel="noreferrer">
-        <img align="center" src="https://github.com/Github2k10/Github2k10/blob/main/assets/leetcode.svg" alt="https://www.leetcode.com/ankitsingh007" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 5px; padding: 5px;" />
-    </a>
 </p>
 
 <h2></h2>
