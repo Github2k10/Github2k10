@@ -27,7 +27,7 @@
 <h2></h2>
 <br>
 
-<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github2k10" /></a> </p>
+<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10&theme=juicyfresh&column=8&margin-w=5&margin-h=15&no-bg=true&no-frame=true" alt="github2k10" /></a> </p>
 
 <p align='center' style='font-size: 16px;'>
     ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
