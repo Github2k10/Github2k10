@@ -43,7 +43,7 @@
 </p>
 
 <p align='left' style='font-size: 16px;'>
-    🔗 <strong>Visit my Portfoilo: https://github.com/Github2k10/Github2k10.github.io</strong>
+    🔗 <strong>Visit my Portfoilo: [https://github.com/Github2k10/Github2k10.github.io](https://github2k10.github.io/)</strong>
 </p>
 <br>
 
