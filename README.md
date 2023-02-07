@@ -36,9 +36,7 @@
     🌱 <strong>I’m currently learning Full Stack Developer</strong>
 </p>
 
-<p align='left' style='font-size: 16px;'>
-    📫 <strong> How to reach me ankitsingh40068@gmail.com</strong>
-</p>
+📫 How to reach me **ankitsingh40068@gmail.com**
 
 <p align='left' style='font-size: 16px;'>
     🔗 <strong>Connect with me on LinkedIn: https://linkedin.com/in/ankit-kumar-2k21</strong>
