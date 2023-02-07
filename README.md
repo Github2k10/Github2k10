@@ -27,33 +27,40 @@
 <h2></h2>
 <br>
 
-<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="github2k10" /></a> </p>
-
-<p align='center' style='font-size: 16px;'>
+<div>
+<p align='left' style='font-size: 16px;'>
     ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
 </p>
 
-<p align='center' style='font-size: 16px;'>
+<p align='left' style='font-size: 16px;'>
     🌱 <strong>I’m currently learning Full Stack Developer</strong>
 </p>
 
-<p align='center' style='font-size: 16px;'>
+<p align='left' style='font-size: 16px;'>
     📫 <strong> How to reach me ankitsingh40068@gmail.com</strong>
 </p>
 
-<p align="center" style='font-size: 16px;'> 
-  <b>Profile Views</b> <br>
+<p align='left' style='font-size: 16px;'>
+    🔗 <strong>Connect with me on LinkedIn: https://linkedin.com/in/ankit-kumar-2k21</strong>
+</p>
+
+<p align='left' style='font-size: 16px;'>
+    🔗 <strong>Visit my Portfoilo: https://github.com/Github2k10/Github2k10.github.io</strong>
+</p>
+
+<br>
+
+<p align="left" style='font-size: 16px;'> 
   <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
 </p>
 
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
-    Connect with me:
-</h3>
-<p align="center" style='margin: 16px 4px 8px;'>
-    <a href="https://linkedin.com/in/ankit-kumar-2k21" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/ankit-kumar-2k21" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 5px; padding: 5px;" />
-    </a>
-</p>
+</div>
+
+<br>
+
+<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="github2k10" /></a> </p>
+
+
 
 <h2></h2>
 
