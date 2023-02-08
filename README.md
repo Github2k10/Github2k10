@@ -29,11 +29,11 @@
 
 <div>
 <p align='left' style='font-size: 16px;'>
-    ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
+    ⚡ <strong>Fun fact: </strong>It is never too late to learn something.
 </p>
 
 <p align='left' style='font-size: 16px;'>
-    🌱 <strong>I’m currently learning Full Stack Developer</strong>
+    🌱 I’m currently learning<strong> Full Stack Developer</strong>
 </p>
 
 📫 How to reach me **ankitsingh40068@gmail.com**
