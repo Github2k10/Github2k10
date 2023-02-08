@@ -33,10 +33,10 @@
 </p>
 
 <p align='left' style='font-size: 16px;'>
-    🌱 I’m currently learning<strong> Full Stack Developer</strong>
+    🌱 I’m currently learning<strong> Full Stack Developement.</strong>
 </p>
 
-📫 How to reach me **ankitsingh40068@gmail.com**
+📫 *How to reach me* **ankitsingh40068@gmail.com**
 
 <p align='left' style='font-size: 16px;'>
     🔗 <strong>Connect with me on LinkedIn: https://linkedin.com/in/ankit-kumar-2k21</strong>
