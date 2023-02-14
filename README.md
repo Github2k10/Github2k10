@@ -39,11 +39,11 @@
 📫 *How to reach me* **ankitsingh40068@gmail.com**
 
 <p align='left' style='font-size: 16px;'>
-    🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21">LinkedIn</a></strong>
+    🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21" target="_blank">LinkedIn</a></strong>
 </p>
 
 <p align='left' style='font-size: 16px;'>
-    🔗 <strong>Visit my Portfoilo: <a href="https://github2k10.github.io/">Portfolio</a></strong>
+    🔗 <strong>Visit my Portfoilo: <a href="https://github2k10.github.io/" target="_blank">Portfolio</a></strong>
 </p>
 <br>
 
