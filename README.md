@@ -67,7 +67,6 @@
     <h3> <strong> Actively Learning: </strong></h3>
     <img style='text-align:center;' src="https://skillicons.dev/icons?i=aws,bootstrap,figma,hibernate,maven,sass,spring" alt="skills logos"  /> 
 </div> 
-
 <br>
     
 <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
