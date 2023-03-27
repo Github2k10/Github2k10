@@ -20,7 +20,6 @@
 </h3>
 
 <br>
-
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
