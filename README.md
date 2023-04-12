@@ -61,9 +61,9 @@
 </h3>
 
 <div align='center' >
-  <img style='text-align:center;' src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,github,html,js,java,linux,mysql,netlify,vscode" alt="skills logos"  /> <br> 
+  <img style='text-align:center;' src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,github,html,js,java,hibernate,maven,linux,mysql,netlify,vscode" alt="skills logos"  /> <br> 
     <h3> <strong> Actively Learning: </strong></h3>
-    <img style='text-align:center;' src="https://skillicons.dev/icons?i=aws,bootstrap,figma,hibernate,maven,sass,spring" alt="skills logos"  /> 
+    <img style='text-align:center;' src="https://skillicons.dev/icons?i=aws,bootstrap,figma,sass,spring" alt="skills logos"  /> 
 </div> 
 <br>
     
