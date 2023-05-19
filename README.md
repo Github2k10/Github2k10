@@ -11,8 +11,7 @@
 <h2></h2>
 
 <h3 align="center">
-    I am learning Full Stack Development from Masai School, Bangalore, India.<br />
-    I have completed my Diploma in Electronics and Communication from PUSA Institue of Technology, New Delhi, India.<br />
+    I am a Java backend developer with a strong passion for crafting efficient and scalable software solutions. With a solid foundation in Java programming and a keen eye for detail, I strive to create robust applications that meet the highest standards of quality.<br />
     I like solving competitive coding problems, exploring new technologies and book reading.
 </h3>
 
