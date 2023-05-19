@@ -28,9 +28,9 @@
     ⚡ <strong>Fun fact: </strong>It is never too late to learn something.
 </p>
 
-<p align='left' style='font-size: 16px;'>
+<!-- <p align='left' style='font-size: 16px;'>
     🌱 I’m currently learning<strong> Full Stack Developement.</strong>
-</p>
+</p> -->
 
 📫 *How to reach me* **ankitsingh40068@gmail.com**
 
