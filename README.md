@@ -86,7 +86,6 @@
 <p align="center" >
     <img style='width : 70%;' src="profile-3d-contrib/profile-night-rainbow.svg?sanitize=true" alt="3D-profile-contrib">
 </p?
-
  
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github.com/Github2k10/Github2k10/blob/output/github-contribution-grid-snake.svg" alt="My snake eating contribution graph" />
