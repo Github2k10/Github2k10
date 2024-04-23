@@ -156,14 +156,14 @@
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="redux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
 </p>
 
 <br>
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'> <strong> Actively Learning: </strong></h3>
 <p align="center" style='margin: 16px 4px 32px;'>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
     <a href="https://redis.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
