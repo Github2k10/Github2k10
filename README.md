@@ -159,6 +159,8 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
+    <a href="https://angular.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
 </p>
 
 <br>
