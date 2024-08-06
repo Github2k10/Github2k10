@@ -31,11 +31,11 @@
 📫 _How to reach me_ **prafulk9155gmail.com**
 
 <p align='left' style='font-size: 16px;'>
-    🔗 <strong>Connect with me on LinkedIn: <a href="[https://linkedin.com/in/ankit-kumar-2k21](https://www.linkedin.com/in/praful-kumar-38b96b1b0/)"  target="_blank">LinkedIn</a></strong>
+    🔗 <strong>Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/praful-kumar-38b96b1b0/"  target="_blank">LinkedIn</a></strong>
 </p>
 
 <p align='left' style='font-size: 16px;'>
-    🔗 <strong>Visit my Portfoilo: <a href="[https://ankitworks.netlify.app/](https://prafulstack.netlify.app)"  target="_blank">Portfolio</a></strong>
+    🔗 <strong>Visit my Portfoilo: <a href="https://prafulstack.netlify.app"  target="_blank">Portfolio</a></strong>
 </p>
 <br>
 
