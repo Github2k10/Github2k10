@@ -2,7 +2,7 @@
     <img src="./assets/greetings.gif" alt="Hello World" />
 </p>
 <h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, Ankit Kumar
+    Hi <img src='./assets/wave.gif' height='26' alt='there'>, Praful Kumar
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
@@ -28,10 +28,10 @@
     ⚡ <strong>Fun fact: </strong>It is never too late to learn something.
 </p>
 
-📫 _How to reach me_ **ankitsingh40068@gmail.com**
+📫 _How to reach me_ **prafulk91552gmail.com**
 
 <p align='left' style='font-size: 16px;'>
-    🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21"  target="_blank">LinkedIn</a></strong>
+    🔗 <strong>Connect with me on LinkedIn: <a href="[https://linkedin.com/in/ankit-kumar-2k21](https://www.linkedin.com/in/praful-kumar-38b96b1b0/)"  target="_blank">LinkedIn</a></strong>
 </p>
 
 <p align='left' style='font-size: 16px;'>
@@ -40,7 +40,7 @@
 <br>
 
 <p align="left" style='font-size: 16px;'> 
-  <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=prafulk9155&style=flat-square" />
 </p>
 </div>
 
