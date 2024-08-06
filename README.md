@@ -180,15 +180,15 @@
     Stats:
 </h3>
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafulk9155&layout=compact&langs_count=10&theme=dark" alt="github2k10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafulk9155&layout=compact&langs_count=10&theme=dark" alt="prafulk9155" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=prafulk9155&show_icons=true&theme=dark" alt="github2k10" />
+    <img src="https://github-readme-stats.vercel.app/api?username=prafulk9155&show_icons=true&theme=dark" alt="prafulk9155" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prafulk9155&theme=dark" alt="github2k10" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prafulk9155&theme=dark" alt="prafulk9155" />
 </p>
 
 <p align="center" >
