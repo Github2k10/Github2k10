@@ -46,7 +46,7 @@
 
 <br>
 
-<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafuk9155&&theme=flat&column=5&margin-w=15&margin-h=15" alt="prafulk9155" /></a> </p>
+<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafulk9155&&theme=flat&column=5&margin-w=15&margin-h=15" alt="prafulk9155" /></a> </p>
 
 <h2></h2>
 
