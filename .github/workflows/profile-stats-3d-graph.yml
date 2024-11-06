@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contribution
 
 on:
   schedule: # every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: "*/2 * * * *"
   workflow_dispatch:
 
 jobs:
