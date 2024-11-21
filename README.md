@@ -10,40 +10,77 @@
 </p>
 <h2></h2>
 
+<!--
 <h3 align="center">
     I am a Full Stack developer with a strong passion for crafting efficient and scalable software solutions. With a solid foundation in Javascript programming and a keen eye for detail, I strive to create robust applications that meet the highest standards of quality.<br />
     I like solving competitive coding problems, exploring new technologies and book reading.
 </h3>
+ -->
 
 <br>
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/dev-working_rounded.gif" alt="working developer">
-</p>
+
+<div style="display: flex;">
+    <div style="flex: 1; font-size: 16px;">
+        <p align='left'>🚀 Full Stack Developer | 🤖 AI/ML Learner | 🧙‍♂️ Tech Wizard</p>
+        <p align='left'>Hi there! 👋 I'm Ankit, a passionate Full Stack Developer and DevOps enthusiast, driven by a love for crafting efficient, scalable, and secure software solutions.</p>
+        ⚡ <strong>Fun fact: </strong>It is never too late to learn something. <br>
+        📫 _How to reach me_ **ankitsingh40068@gmail.com** <br>
+        🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21"  target="_blank">LinkedIn</a></strong> <br>
+        🔗 <strong>Visit my Portfoilo: <a href="https://ankitworks.netlify.app/"  target="_blank">Portfolio</a></strong> <br>
+        <br>
+        <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
+    </div>
+    <p align='right' style='width: 45%;'>
+        <img src="./assets/dev-working_rounded.gif" alt="working developer">
+    </p>
+</div>
+<br>
+<p style="font-size: 24px; font-weight: 500;">👨‍💻 What I Do:</p>
+<ul style="font-size: 16px;">
+    <li>🖥️ Frontend Development: Building dynamic UIs with Angular.js, React.js, Next.js, and tools like Vite.</li>
+    <li>🔧 Backend Development: Developing robust APIs using FastAPI, Express.js, and integrating MongoDB for seamless data management.</li>
+    <li>🐳 DevOps & Docker: Exploring Docker and containerization to optimize deployments and streamline workflows.</li>
+    <li>🤖 AI & Chatbots: Creating interactive chatbots with Rasa, Python, and FastAPI, tailored for specific use cases like heavy vehicle management systems.</li>
+    <li>🔐 IoT Security: Simulating secure end-to-end encryption for IoT data transmission using cutting-edge cryptography techniques like ECC and Post-Quantum Cryptography (PQC).</li>
+</ul>
+
+<p style="font-size: 24px; font-weight: 500;">🌟 What Sets Me Apart:</p>
+<ul style="font-size: 16px;">
+    <li>🎯 A detail-oriented problem-solver with experience in competitive coding and solving real-world challenges.</li>
+    <li>🌍 Strong interest in exploring new technologies to stay ahead in the ever-evolving tech landscape.</li>
+    <li>📚 Avid reader and lifelong learner, constantly seeking ways to enhance my technical expertise and personal growth.</li>
+</ul>
+
+<p style="font-size: 24px; font-weight: 500;">🚧 Current Projects:</p>
+<ol style="font-size: 16px;">
+    <li>
+        Heavy Vehicle Management System:
+        <ul>
+            <li>Implementing a chatbot with Rasa to manage queries about load assignment, vehicle status, and approvals.</li>
+            <li>Leveraging role-based access and integrating secure database interactions.</li>
+        </ul>
+    </li>
+    <li>
+        IoT Data Transmission Security Simulation:
+        <ul>
+            <li>Developing a virtual environment to demonstrate secure, encrypted IoT communication using protocols like MQTT, TLS/SSL, and HTTP/3.</li>
+        </ul>
+    </li>
+    <li>
+        Next.js App with MongoDB:
+        <ul>
+            <li>Building and optimizing a modern full-stack app using Next.js for server-side rendering and seamless database integration.</li>
+        </ul>
+    </li>
+    <li>
+        Chatbot Enhancements:
+        <ul>
+            <li>Refining stop words and enhancing natural language understanding (NLU) for better predictions and user experiences.</li>
+        </ul>
+    </li>
+</ol>
 
 <h2></h2>
-<br>
-
-<div>
-<p align='left' style='font-size: 16px;'>
-    ⚡ <strong>Fun fact: </strong>It is never too late to learn something.
-</p>
-
-📫 _How to reach me_ **ankitsingh40068@gmail.com**
-
-<p align='left' style='font-size: 16px;'>
-    🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21"  target="_blank">LinkedIn</a></strong>
-</p>
-
-<p align='left' style='font-size: 16px;'>
-    🔗 <strong>Visit my Portfoilo: <a href="https://ankitworks.netlify.app/"  target="_blank">Portfolio</a></strong>
-</p>
-<br>
-
-<p align="left" style='font-size: 16px;'> 
-  <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
-</p>
-</div>
-
 <br>
 
 <p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10&&theme=flat&column=5&margin-w=15&margin-h=15" alt="github2k10" /></a> </p>
