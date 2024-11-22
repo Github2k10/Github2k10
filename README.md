@@ -1,3 +1,5 @@
+import './styles.css';
+
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="./assets/greetings.gif" alt="Hello World" />
 </p>
@@ -9,24 +11,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a Passionate Full-Stack Software Developer from India." />
 </p>
 <h2></h2>
-
-<!--
-<h3 align="center">
-    I am a Full Stack developer with a strong passion for crafting efficient and scalable software solutions. With a solid foundation in Javascript programming and a keen eye for detail, I strive to create robust applications that meet the highest standards of quality.<br />
-    I like solving competitive coding problems, exploring new technologies and book reading.
-</h3>
- -->
-
 <br>
-
 <div style="display: flex;">
     <div style="flex: 1; font-size: 16px;">
         <p align='left'>🚀 Full Stack Developer | 🤖 AI/ML Learner | 🧙‍♂️ Tech Wizard</p>
         <p align='left'>Hi there! 👋 I'm Ankit, a passionate Full Stack Developer and DevOps enthusiast, driven by a love for crafting efficient, scalable, and secure software solutions.</p>
-        ⚡ <strong>Fun fact: </strong>It is never too late to learn something. <br>
-        📫 _How to reach me_ **ankitsingh40068@gmail.com** <br>
-        🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21"  target="_blank">LinkedIn</a></strong> <br>
-        🔗 <strong>Visit my Portfoilo: <a href="https://ankitworks.netlify.app/"  target="_blank">Portfolio</a></strong> <br>
+        <p align='left'>⚡ <strong>Fun fact: </strong>It is never too late to learn something.</p> 
+        <p align='left'>📫 _How to reach me_ **ankitsingh40068@gmail.com**</p> 
+        <p align='left'> 🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21"  target="_blank">LinkedIn</a></strong></p> 
+        <p align='left'>🔗 <strong>Visit my Portfoilo: <a href="https://ankitworks.netlify.app/"  target="_blank">Portfolio</a></strong></p>
         <br>
         <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
     </div>
