@@ -13,7 +13,7 @@ import './styles.css';
 <h2></h2>
 <br>
 <div className="flex" style="display: flex;">
-    <div align="left" style="width: 55%; font-size: 16px;">
+    <div className="width-55" align="left" style="width: 55%; font-size: 16px;">
         <p align='left'>🚀 Full Stack Developer | 🤖 AI/ML Learner | 🧙‍♂️ Tech Wizard</p>
         <p align='left'>Hi there! 👋 I'm Ankit, a passionate Full Stack Developer and DevOps enthusiast, driven by a love for crafting efficient, scalable, and secure software solutions.</p>
         <p align='left'>⚡ <strong>Fun fact: </strong>It is never too late to learn something.</p> 
@@ -23,7 +23,7 @@ import './styles.css';
         <br>
         <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
     </div>
-    <p align='right' style='width: 45%;'>
+    <p className="width-45" align='right' style='width: 45%;'>
         <img src="./assets/dev-working_rounded.gif" alt="working developer">
     </p>
 </div>
