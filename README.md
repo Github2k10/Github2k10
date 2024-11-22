@@ -12,7 +12,7 @@ import './styles.css';
 </p>
 <h2></h2>
 <br>
-<div style="display: flex;">
+<div className="flex" style="display: flex;">
     <div style="flex: 1; font-size: 16px;">
         <p align='left'>🚀 Full Stack Developer | 🤖 AI/ML Learner | 🧙‍♂️ Tech Wizard</p>
         <p align='left'>Hi there! 👋 I'm Ankit, a passionate Full Stack Developer and DevOps enthusiast, driven by a love for crafting efficient, scalable, and secure software solutions.</p>
