@@ -10,20 +10,18 @@
 </p>
 <h2></h2>
 <br>
-<div className="flex" style="display: flex;">
-    <div className="width-55" align="left" style="width: 55%; font-size: 16px;">
-        <p align='left'>🚀 Full Stack Developer | 🤖 AI/ML Learner | 🧙‍♂️ Tech Wizard</p>
-        <p align='left'>Hi there! 👋 I'm Ankit, a passionate Full Stack Developer and DevOps enthusiast, driven by a love for crafting efficient, scalable, and secure software solutions.</p>
-        <p align='left'>⚡ <strong>Fun fact: </strong>It is never too late to learn something.</p> 
-        <p align='left'>📫 _How to reach me_ **ankitsingh40068@gmail.com**</p> 
-        <p align='left'> 🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21"  target="_blank">LinkedIn</a></strong></p> 
-        <p align='left'>🔗 <strong>Visit my Portfoilo: <a href="https://ankitworks.netlify.app/"  target="_blank">Portfolio</a></strong></p>
-        <br>
-        <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
-    </div>
-    <p className="width-45" align='right' style='width: 45%;'>
-        <img src="./assets/dev-working_rounded.gif" alt="working developer">
-    </p>
+<p align='right' style='width: 45%;'>
+    <img src="./assets/dev-working_rounded.gif" alt="working developer">
+</p>
+<div align="left" style="width: 55%; font-size: 16px;">
+    <p align='left'>🚀 Full Stack Developer | 🤖 AI/ML Learner | 🧙‍♂️ Tech Wizard</p>
+    <p align='left'>Hi there! 👋 I'm Ankit, a passionate Full Stack Developer and DevOps enthusiast, driven by a love for crafting efficient, scalable, and secure software solutions.</p>
+    <p align='left'>⚡ <strong>Fun fact: </strong>It is never too late to learn something.</p> 
+    <p align='left'>📫 <strong>How to reach me:</strong> ankitsingh40068@gmail.com</p> 
+    <p align='left'> 🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21"  target="_blank">LinkedIn</a></strong></p> 
+    <p align='left'>🔗 <strong>Visit my Portfoilo: <a href="https://ankitworks.netlify.app/"  target="_blank">Portfolio</a></strong></p>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
 </div>
 <br>
 <p style="font-size: 24px; font-weight: 500;">👨‍💻 What I Do:</p>
