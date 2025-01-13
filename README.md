@@ -206,15 +206,15 @@
     Stats:
 </h3>
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Github2k10&layout=compact&langs_count=10&theme=dark" alt="github2k10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Github2k10&layout=compact&langs_count=10&theme=dark" alt="Github2k10" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=Github2k10&show_icons=true&theme=dark" alt="github2k10" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Github2k10&show_icons=true&theme=dark" alt="Github2k10" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=github2k10&theme=dark" alt="github2k10" />
+    <img src="https://streak-stats.demolab.com/?user=Github2k10&theme=dark" alt="Github2k10" />
 </p>
 
 <p align="center" >
