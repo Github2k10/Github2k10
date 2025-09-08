@@ -19,7 +19,7 @@
     <p align='left'>⚡ <strong>Fun fact: </strong>It is never too late to learn something.</p> 
     <p align='left'>📫 <strong>How to reach me:</strong> ankitsingh40068@gmail.com</p> 
     <p align='left'> 🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21"  target="_blank">LinkedIn</a></strong></p> 
-    <p align='left'>🔗 <strong>Visit my Portfoilo: <a href="https://ankitworks.netlify.app/"  target="_blank">Portfolio</a></strong></p>
+    <p align='left'>🔗 <strong>Visit my Portfoilo: <a href="https://ezankit.in/"  target="_blank">Portfolio</a></strong></p>
     <br>
     <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
 </div>
