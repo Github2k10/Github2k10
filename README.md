@@ -6,7 +6,7 @@
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a Passionate Full-Stack Software Developer from India." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Full+Stack+%26+AI+Engineer+from+India;I+build+things+that+ship+%26+scale" alt="Welcome to my GitHub Profile. I am a Passionate Full-Stack Software Developer from India." />
 </p>
 <h2></h2>
 <br>
@@ -14,213 +14,135 @@
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
 <div align="left" style="width: 55%; font-size: 16px;">
-    <p align='left'>🚀 Full Stack Developer | 🤖 AI/ML Learner | 🧙‍♂️ Tech Wizard</p>
-    <p align='left'>Hi there! 👋 I'm Ankit, a passionate Full Stack Developer and DevOps enthusiast, driven by a love for crafting efficient, scalable, and secure software solutions.</p>
-    <p align='left'>⚡ <strong>Fun fact: </strong>It is never too late to learn something.</p> 
-    <p align='left'>📫 <strong>How to reach me:</strong> ankitsingh40068@gmail.com</p> 
-    <p align='left'> 🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21"  target="_blank">LinkedIn</a></strong></p> 
-    <p align='left'>🔗 <strong>Visit my Portfoilo: <a href="https://ezankit.in/"  target="_blank">Portfolio</a></strong></p>
+    <p>⚡ Full Stack Developer · 🤖 AI/ML Engineer · ☁️ Cloud Builder</p>
+    <p>
+        I'm Ankit — I build production-grade software that ships and scales.
+        From cloud storage platforms to drop-in analytics SDKs, I focus on
+        creating things people actually use. Currently going deep on ML/AI
+        integration with modern web stacks.
+    </p>
+    <p>🌍 Based in Delhi, India &nbsp;·&nbsp; 🚀 Open to global remote roles</p>
+    <p>📫 <strong>Email:</strong> ankitsingh40068@gmail.com</p>
+    <p>🔗 <strong><a href="https://linkedin.com/in/ankit-kumar-2k21">LinkedIn</a></strong> &nbsp;·&nbsp; 🌐 <strong><a href="https://ezankit.in/">ezankit.in</a></strong></p>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=ez-ankit&style=flat-square&color=54A6FF&base=19170" />
 </div>
 <br>
-<p style="font-size: 24px; font-weight: 500;">👨‍💻 What I Do:</p>
+<p style="font-size: 24px; font-weight: 500;">🚀 What I Build</p>
+
 <ul style="font-size: 16px;">
-    <li>🖥️ Frontend Development: Building dynamic UIs with Angular.js, React.js, Next.js, and tools like Vite.</li>
-    <li>🔧 Backend Development: Developing robust APIs using FastAPI, Express.js, and integrating MongoDB for seamless data management.</li>
-    <li>🐳 DevOps & Docker: Exploring Docker and containerization to optimize deployments and streamline workflows.</li>
-    <li>🤖 AI & Chatbots: Creating interactive chatbots with Rasa, Python, and FastAPI, tailored for specific use cases like heavy vehicle management systems.</li>
-    <li>🔐 IoT Security: Simulating secure end-to-end encryption for IoT data transmission using cutting-edge cryptography techniques like ECC and Post-Quantum Cryptography (PQC).</li>
+    <li>☁️ <strong>Cloud Platforms:</strong> Architected and deployed CloudVault — a full-stack cloud storage platform live at <a href="https://uploads.ezankit.in">uploads.ezankit.in</a>, handling real user uploads with Next.js.</li>
+    <li>📊 <strong>Developer Tools:</strong> Building a lightweight JS analytics SDK — drop it into any site and get Google Analytics-level insights, self-hosted and privacy-first.</li>
+    <li>🤖 <strong>AI/ML Engineering:</strong> Integrating ML models into production web apps — from NLP pipelines to intelligent data processing with Python and FastAPI.</li>
+    <li>🖥️ <strong>Full Stack Systems:</strong> End-to-end product development with Next.js, Angular, FastAPI, Express.js, PostgreSQL, and MongoDB.</li>
+    <li>🐳 <strong>DevOps & Cloud:</strong> Containerizing apps with Docker, deploying on cloud infrastructure, and building CI/CD pipelines for reliable delivery.</li>
 </ul>
-
-<p style="font-size: 24px; font-weight: 500;">🌟 What Sets Me Apart:</p>
-<ul style="font-size: 16px;">
-    <li>🎯 A detail-oriented problem-solver with experience in competitive coding and solving real-world challenges.</li>
-    <li>🌍 Strong interest in exploring new technologies to stay ahead in the ever-evolving tech landscape.</li>
-    <li>📚 Avid reader and lifelong learner, constantly seeking ways to enhance my technical expertise and personal growth.</li>
-</ul>
-
-<p style="font-size: 24px; font-weight: 500;">🚧 Current Projects:</p>
-<ol style="font-size: 16px;">
-    <li>
-        Heavy Vehicle Management System:
-        <ul>
-            <li>Implementing a chatbot with Rasa to manage queries about load assignment, vehicle status, and approvals.</li>
-            <li>Leveraging role-based access and integrating secure database interactions.</li>
-        </ul>
-    </li>
-    <li>
-        IoT Data Transmission Security Simulation:
-        <ul>
-            <li>Developing a virtual environment to demonstrate secure, encrypted IoT communication using protocols like MQTT, TLS/SSL, and HTTP/3.</li>
-        </ul>
-    </li>
-    <li>
-        Next.js App with MongoDB:
-        <ul>
-            <li>Building and optimizing a modern full-stack app using Next.js for server-side rendering and seamless database integration.</li>
-        </ul>
-    </li>
-    <li>
-        Chatbot Enhancements:
-        <ul>
-            <li>Refining stop words and enhancing natural language understanding (NLU) for better predictions and user experiences.</li>
-        </ul>
-    </li>
-</ol>
-
-<h2></h2>
-<br>
-
-<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10&&theme=flat&column=5&margin-w=15&margin-h=15" alt="github2k10" /></a> </p>
 
 <h2></h2>
 
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
-    Languages and Tools:
-</h3>
-<p align="center" style='margin: 16px 4px 32px;'>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse-foundation" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://fontawesome.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-icon.svg" alt="font-awesome" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="eclipse-foundation" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtual-box" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="redux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-</p>
+<p style="font-size: 24px; font-weight: 500;">🔨 Currently Building</p>
 
+<ul style="font-size: 16px;">
+    <li>
+        📊 <strong>Website Analytics SDK</strong> — A self-hosted, privacy-first alternative to Google Analytics.
+        Drop a single JS tag into any site and get real-time visitor insights, heatmaps, and event tracking.
+        <em>Stack: Python · FastAPI · JavaScript · ClickHouse</em>
+    </li>
+    <li>
+        🤖 <strong>ML/AI Integration Research</strong> — Exploring RAG pipelines and LLM fine-tuning for 
+        embedding AI into full-stack production applications.
+    </li>
+</ul>
+
+<h2></h2>
+
+<p style="font-size: 24px; font-weight: 500;">🎯 What Drives Me</p>
+
+<ul style="font-size: 16px;">
+    <li>🔁 I don't just learn technologies — I build with them until something ships.</li>
+    <li>📦 I care about the full lifecycle: idea → architecture → deployment → real users.</li>
+    <li>📈 I measure my work in outcomes: live products, stars, forks, and user feedback.</li>
+    <li>🌱 Currently bridging the gap between full-stack engineering and applied AI/ML.</li>
+</ul>
+<h2></h2>
 <br>
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'> <strong> Actively Learning: </strong></h3>
-<p align="center" style='margin: 16px 4px 32px;'>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
+
+<h3 align="center" style="margin: 32px 4px 16px; font-size: 24px;">🛠️ Languages & Technologies</h3>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  &nbsp;|&nbsp;
+  <!-- Frontend -->
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  &nbsp;|&nbsp;
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" alt="FastAPI" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  &nbsp;|&nbsp;
+  <!-- Databases -->
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  &nbsp;|&nbsp;
+  <!-- DevOps -->
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="38" height="38" style="background:#fff;border-radius:5px;border:1px solid #000;margin:2px;padding:2px;" />
 </p>
-    
-<h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
-    Stats:
-</h3>
+
+<p align="center" style="font-size: 12px; color: gray; margin: 4px;">
+  Languages &nbsp;|&nbsp; Frontend &nbsp;|&nbsp; Backend &nbsp;|&nbsp; Databases &nbsp;|&nbsp; DevOps
+</p>
+
+<h2></h2>
+
+<!-- THE STAR SECTION — Learner Centric -->
+<h3 align="center" style="margin: 32px 4px 8px; font-size: 24px;">🌱 Currently Learning & Exploring</h3>
+<p align="center" style="color: gray; font-size: 14px;">
+    This is where I'm investing my time right now — the stack I'm building toward.
+</p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" style="background:#fff;border-radius:5px;border:1px solid #000;margin:0 3px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" style="background:#fff;border-radius:5px;border:1px solid #000;margin:0 3px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40" style="background:#fff;border-radius:5px;border:1px solid #000;margin:0 3px;padding:2px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pandas.svg" alt="Pandas" width="40" height="40" style="background:#fff;border-radius:5px;border:1px solid #000;margin:0 3px;padding:2px;" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" style="background:#fff;border-radius:5px;border:1px solid #000;margin:0 3px;padding:2px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="background:#fff;border-radius:5px;border:1px solid #000;margin:0 3px;padding:2px;" />
+</p>
+
+<p align="center" style="font-size: 13px; color: gray;">
+  🤖 PyTorch & TensorFlow — building toward production ML models &nbsp;|&nbsp;
+  ☸️ Kubernetes — scaling what I deploy &nbsp;|&nbsp;
+  📊 NumPy/Pandas — data pipelines for AI projects
+</p>
+
+<h2></h2>
+
+<h3 align="center" style="margin: 32px 4px 8px; font-size: 24px;">📊 GitHub Activity</h3>
+<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ez-ankit&&theme=flat&column=5&margin-w=15&margin-h=15" alt="ez-ankit" /></a> </p>
+
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Github2k10&layout=compact&langs_count=10&theme=dark" alt="Github2k10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ez-ankit&layout=compact&langs_count=10&theme=dark" alt="ez-ankit" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=Github2k10&show_icons=true&theme=dark" alt="Github2k10" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ez-ankit&show_icons=true&theme=dark" alt="ez-ankit" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://streak-stats.demolab.com/?user=Github2k10&theme=dark" alt="Github2k10" />
+    <img src="https://streak-stats.demolab.com/?user=ez-ankit&theme=dark" alt="ez-ankit" />
 </p>
 
 <p align="center" >
     <img style='width : 70%;' src="profile-3d-contrib/profile-night-rainbow.svg?sanitize=true" alt="3D-profile-contrib">
-</p?
+</p>
  
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/Github2k10/Github2k10/blob/output/github-contribution-grid-snake-dark.svg" alt="My snake eating contribution graph" />
+    <img src="https://github.com/ez-ankit/ez-ankit/blob/output/github-contribution-grid-snake-dark.svg" alt="My snake eating contribution graph" />
 </p>
